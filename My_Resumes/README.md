@@ -41,24 +41,34 @@ My Personal Resumes are showed here
 - Developed a machine-learning prediction service using Scikit-learn to identify potential cost and time overruns through developing a ML Model.
 - Designed REST API and integrate client, database,backend and ML service,
 -  Deployed the backend and ML prediction service independently on cloud infrastructure and  creating a production-style workflow from data processing to API-based predictions.
--  
+
+ 
 
 ### Skills 
-languages : Python | C++ | Javascript 
-backend: REST APIs | Flask 
-databases : MySQL | PostgreSql 
-Data & Machine Learning: numpy | Pandas | Scikit-learn 
-Tools & Deployments: Git, Github, Github Actions, Docker, Render, Vercel, Supabase, Google Collab 
-CS Fundamentals 
-
+- languages : Python | C++ | Javascript 
+- backend: REST APIs | Flask 
+- databases : MySQL | PostgreSql 
+- Data & Machine Learning: numpy | Pandas | Scikit-learn 
+- Tools & Deployments: Git, Github, Github Actions, Docker, Render, Vercel, Supabase, Google Collab 
+- CS Fundamentals : OS, DBMS, DSA, OOPS, SDLC
 
 
    
 ### Achievements 
+-  NCC & NSS Cadet
+-  Open Source Contributer
+-  Basketball NVS Regionalist
+-  Hackathons & Challenges
+  
 
 ### Links 
+Leetcode: https://leetcode.com/gitanuj993
+
 
 ### Education 
+
+SDITS KHANDWA | 2024-2028
+JNV KHANDWA | 2017-2024 | Hostel Life
 
 
 
