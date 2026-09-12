@@ -7,7 +7,11 @@ Don't treat the resume as a biography. It is a positioning document.
 ## Videos 
 
  [![YouTube](https://img.shields.io/badge/▶%20Watch%20-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/2n9r5LkJOOE?si=smn7x-djmmJN4r3g)
+ 
+> How much time should I spend on building resume ?
 
+For Serious Positioning 
+![Time Spent](https://img.shields.io/badge/Time%20Spent-2%20Hours-blue?style=for-the-badge)
 
 ## Content of a RESUME 
 
@@ -101,5 +105,6 @@ Don't treat the resume as a biography. It is a positioning document.
 - A strong one-page resume with 2 excellent projects beats a crowded two-page resume
   
   
-
+### Bibliography 
+![I Spend ](https://img.shields.io/badge/Time%20Spent-1.2%20Hours-blue?style=for-the-badge) 
 
