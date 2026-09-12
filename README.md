@@ -85,8 +85,21 @@ Don't treat the resume as a biography. It is a positioning document.
      2. “Watched 100 hours of coding tutorials”
      3. “Certificate of participation” 
 
-  
+ 8. Education
+    - University/institute Name
+    - Grade/CGPA ( Optional )
 
-   
+     > You don't need to list every school subject or every semester's marks.
+
+
+## Recommendations
+
+- For Freshers
+```txt
+ Name → Contact → Summary → Skills → Projects → Experience → Achievements → Education
+  ```
+- A strong one-page resume with 2 excellent projects beats a crowded two-page resume
+  
+  
 
 
